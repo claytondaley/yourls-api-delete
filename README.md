@@ -1,12 +1,12 @@
-yourls-api-delete
-=================
+YOURLS Plugin:  API Action - Delete 
+===================================
 
 Plugin for YOURLS adding a "delete" action to the API
 
 # What for
 
 This plug-in adds the "delete" action to the YOURLS API.
-`http://my.url/yourls-api.php?username=x&password=xx&action=delete&keyword=abc123&format=json` 
+`http://my.url/yourls-api.php?username=x&password=xx&action=delete&shorturl=abc123&format=json` 
 
 # How to
 
