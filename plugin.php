@@ -35,7 +35,7 @@ function clayton_api_action_delete() {
 	if( !yourls_is_shorturl( $shorturl ) ) {
 		return array(
 			'statusCode' => 404,
-			'simple '    => 'Error: short URL not found',
+			'simple'    => 'Error: short URL not found',
 			'message'    => 'error: not found',
 		);	
 	}
